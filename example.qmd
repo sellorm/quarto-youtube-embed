@@ -1,0 +1,9 @@
+---
+title: Youtube embedding example
+Author: Mark Sellors
+format: html
+---
+
+## Here is a Youtube video
+
+{{ youtube zk9zHqXm6m0 }}
