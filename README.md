@@ -1,6 +1,6 @@
 # Quarto Youtube embed
 
-Embed a Youtube video into a [Quarto](https://quarto.org) html document using a shortcode.
+A [Quarto](https://quarto.org) extension to embed a Youtube video into an html document using a shortcode.
 
 ## Installation
 
