@@ -6,5 +6,9 @@ format: html
 
 ## Here is a Youtube video
 
+This is a video I created for [rstudio::conf(2022)](https://www.rstudio.com/conference/).
+
 {{< youtube zk9zHqXm6m0 >}}
+
+The video is about my [R4Pi](https://r4pi.org) project.
 
