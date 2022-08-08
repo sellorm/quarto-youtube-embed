@@ -12,7 +12,7 @@ quarto install extension sellorm/quarto-youtube-embed
 
 ## Usage
 
-To embed a video into you Quarto html document you can use the shortcode like this:
+To embed a video into your Quarto html document you can use the shortcode like this:
 
 ```
 {{< youtube VIDEO_ID >}}
